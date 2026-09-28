@@ -24,10 +24,12 @@ systèmes et des réseaux, avec un objectif : **la cybersécurité**.
   proposition d'infrastructure soutenue devant un jury, résolution de pannes réseau sur maquette.
 - **Certification** : Cisco Networking Academy — *Introduction to Cybersecurity*.
 - **Root-Me** : 8 challenges validés dans la catégorie Réseau.
+- **TryHackMe** : 6 salles terminées, dont *Junior Security Analyst Intro* et *Defensive Security Intro*.
 
 ### 🔗 Liens
 
 - 🌐 Portfolio : **[timothy-valentin.github.io](https://timothy-valentin.github.io)**
 - 💼 LinkedIn : [linkedin.com/in/timothyvalentin](https://www.linkedin.com/in/timothyvalentin/)
 - 🚩 Root-Me : [Petitprince](https://www.root-me.org/Petitprince)
+- 🎯 TryHackMe : [TimothyValentin](https://tryhackme.com/p/TimothyValentin)
 - ✉️ timothy.valentins@gmail.com
