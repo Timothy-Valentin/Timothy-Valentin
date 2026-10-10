@@ -16,7 +16,7 @@ systèmes et des réseaux, avec un objectif : **la cybersécurité**.
 | --- | --- |
 | Réseau | VLAN 802.1Q, routage inter-VLAN, DHCP, pfSense, Cisco Packet Tracer, console PuTTY |
 | Systèmes | Proxmox VE, VirtualBox, Windows Server (AD DS, DNS, DHCP, GPO), Debian, Ubuntu, Kali |
-| Cybersécurité | Analyse de trames Wireshark, protocoles chiffrés (SSH, HTTPS), veille Zero Trust / NIS 2 |
+| Cybersécurité | Analyse de trames Wireshark, protocoles chiffrés (SSH, HTTPS), veille sur les passkeys (FIDO2) |
 
 ### 📌 Parcours
 
