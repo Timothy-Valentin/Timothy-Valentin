@@ -30,6 +30,6 @@ systèmes et des réseaux, avec un objectif : **la cybersécurité**.
 
 - 🌐 Portfolio : **[timothy-valentin.github.io](https://timothy-valentin.github.io)**
 - 💼 LinkedIn : [linkedin.com/in/timothyvalentin](https://www.linkedin.com/in/timothyvalentin/)
-- 🚩 Root-Me : [Petitprince](https://www.root-me.org/Petitprince)
+- 🚩 Root-Me : [TimothyValentin](https://www.root-me.org/TimothyValentin)
 - 🎯 TryHackMe : [TimothyValentin](https://tryhackme.com/p/TimothyValentin)
 - ✉️ timothy.valentins@gmail.com
