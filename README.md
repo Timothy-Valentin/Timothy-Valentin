@@ -15,7 +15,7 @@ systèmes et des réseaux, avec un objectif : **la cybersécurité**.
 | Domaine | Outils et compétences |
 | --- | --- |
 | Réseau | VLAN 802.1Q, routage inter-VLAN, DHCP, pfSense, Cisco Packet Tracer, console PuTTY |
-| Systèmes | Proxmox VE, VirtualBox, Windows Server (AD DS, DNS, DHCP, GPO), Debian, Ubuntu, Docker Compose |
+| Systèmes | Proxmox VE, VirtualBox, Windows Server (AD DS, DNS, DHCP, GPO), Debian, Ubuntu, Kali, Docker Compose |
 | Services | GLPI (gestion de parc et assistance), Graylog et OpenSearch (centralisation des journaux) |
 | Cybersécurité | Analyse de trames Wireshark, protocoles chiffrés (SSH, HTTPS), veille sur les passkeys (FIDO2) |
 
